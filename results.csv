@@ -1,0 +1,5 @@
+Experiment,Accuracy,Precision,Recall,F1,F1_Change
+E1 - Raw Text,0.8946,0.8918,0.8982,0.8950,0.0000
+E2 - Lowercase,0.8946,0.8918,0.8982,0.8950,0.0000
+E3 - Lowercase + Punctuation Removal,0.8950,0.8911,0.8998,0.8955,0.0005
+E4 - Lowercase + Punctuation + Stopword Removal,0.8834,0.8819,0.8854,0.8836,-0.0114
